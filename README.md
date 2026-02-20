@@ -47,4 +47,4 @@ A premium, high-performance RAG (Retrieval-Augmented Generation) application bui
 The application is pre-configured to use a Groq API key. You can update the `GROQ_API_KEY` in `app_perfect.py` for your own production use.
 
 ---
-*Created by Antigravity AI*
+
